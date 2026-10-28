@@ -1,0 +1,5 @@
+locations:
+  - location_id: milano
+    name: Milan
+    latitude: 45.4642
+    longitude: 9.1900
